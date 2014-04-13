@@ -15,7 +15,7 @@ import java.util.List;
 public class DaoImpl implements Dao {
 
     @Autowired
-    private SessionFactory sessionFactory;
+    private SessionFactory sessionFactory;//sdfsdf
 
     @Transactional
     @Override
